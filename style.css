@@ -1,0 +1,112 @@
+#logo{
+    width: 100px;
+    height: 90px;
+    border-radius: 5px;
+}
+
+.data{
+    text-align: center;
+    width: 85%;
+    margin:auto;
+}
+
+#about{
+    margin: 10% auto 10% 5%;
+    width: 70%;
+}
+#about h3{
+    margin-top:20px;
+    margin-bottom: 30px;
+    font-weight: normal;
+}
+#about h4{
+    margin-top:20px;
+    margin-bottom: 20px;
+    font-weight: normal;
+}
+h5{
+    margin-top:10px;
+    margin-bottom: 15px;
+    font-weight: normal;
+}
+#about p{
+    margin-bottom: 30px;
+    font-weight:400;
+}
+#product{
+    width: 80%;
+    margin:10% auto;
+}
+#contact{
+    margin: 10% auto 5% 5%;
+    width: 85%;
+}
+#cdetail{
+    margin: 30px 200px 5px 5px;
+}
+#cdetail span:hover{
+    color:rgb(27, 107, 182);
+    cursor: pointer;
+    content: "call now";
+}
+#cdetail a{
+    text-decoration: none;
+    color: crimson;
+}
+#cdetail a:hover{
+    color: rgb(27, 107, 182);
+}
+#bg{
+    background-image: linear-gradient(to right,rgba(220,194,167,0.6),rgba(236,180,166,0.4)),url(img/1.jpg);
+    background-repeat: no-repeat;
+}
+table{
+    margin-top:20px;
+    margin-bottom: 15px;
+    font-weight:600;
+}
+table tr td{
+    padding: 4px;
+}
+form{
+    text-align: center;
+    background-image: linear-gradient(to right, rgba(220,194,167,0.6),rgba(236,180,166,0.4));
+}
+#frm{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+.but{
+    margin: 10px;
+    background-color: hotpink;
+    border-color: whitesmoke;
+}
+#log_in{
+    margin: 10% auto;
+    width: 60%;
+    text-align: center;
+    background-image: linear-gradient(48deg, gold,hotpink);
+}
+#log_in button{
+    border-style: solid;
+    border-color: red;
+    border-radius: 10px;
+}
+#log_in button:hover{
+    background-color: red;
+    border-radius: 15px;
+}
+#log_in input{
+    background-image: linear-gradient( rgb(253, 216, 8),rgb(233, 132, 183));
+}
+#bg1{
+    background-image:linear-gradient(45deg ,gold,hotpink);
+}
+#sub{
+    margin: 10% auto;
+    width: 80%;
+    text-align: center;
+    background-image: linear-gradient(48deg, gold,hotpink);
+}
